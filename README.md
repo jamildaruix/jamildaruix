@@ -5,8 +5,7 @@
 Olá, sou um desenvolvedor e apaixonado por tecnologia. 
 
 - 🌍 Localização: SP, Brasil
-- 💼 LinkedIn: [[Seu perfil no LinkedIn]](https://www.linkedin.com/in/jamil-salim-daruix/)
-
+- 💼 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelnsc/)](https://www.linkedin.com/in/jamil-salim-daruix/)
 
 ## Habilidades
 
